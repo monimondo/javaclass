@@ -1,2 +1,0 @@
-# javaclass
-# javaclass AAOB
