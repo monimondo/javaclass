@@ -1,2 +1,2 @@
 # javaclass
-# javaclass AAOB
+Exercícios do curso básico de JAVA
