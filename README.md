@@ -1,2 +1,2 @@
 # javaclass
-Exercícios do curso básico de JAVA
+Anotaçẽos e exercícios do curso básico de JS
